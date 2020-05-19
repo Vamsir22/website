@@ -4,3 +4,5 @@ This is second file.
 
 
 This is a conflict change from local git
+
+ confict change from GITHUB
